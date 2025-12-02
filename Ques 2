@@ -1,0 +1,20 @@
+//Ques 2. Write a C Program to print the address in multiple lines (new line).
+
+//Answer -
+
+//Program:
+
+#include <stdio.h>
+
+int main() {
+
+printf("Aesha Chaudhary\n");
+
+printf("Alfa 03 Omaxe Rivera, Rudrapur\n");
+
+printf("Uttrakhand, 263153\n");
+
+printf("India\n");
+
+return 0;
+}
