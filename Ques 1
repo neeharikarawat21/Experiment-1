@@ -1,0 +1,14 @@
+//1. Write a C program to print "Hello World".
+
+//Answer -
+
+//Program:
+
+#include <stdio.h>
+
+int main() {
+printf("Hello World\n");
+
+return 0;
+
+}
